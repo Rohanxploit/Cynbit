@@ -9,8 +9,8 @@
 An interactive, high-performance web engineering extension engineered for **Cynbit Technologies** (`https://cynbit.in`) as part of the **Full Stack Developer Intern Assessment**.
 
 > **Candidate:** Rohan Sahu (IIT Roorkee)  
-> **Candidate Portal:** [Cynbit Candidate Assessment](https://cynbit.in/candidate/c076d0c32e9cabc591d3fb799efdd102)  
-> **Target Repository:** [https://github.com/Rohanxploit/Cynbit](https://github.com/Rohanxploit/Cynbit)
+> **Target Repository:** [https://github.com/Rohanxploit/Cynbit](https://github.com/Rohanxploit/Cynbit)  
+> **Official Website:** [https://cynbit.in](https://cynbit.in)
 
 ---
 

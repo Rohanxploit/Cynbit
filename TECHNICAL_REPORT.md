@@ -1,7 +1,7 @@
 # Cynbit Technologies — Technical Improvement Report
 **Role:** Full Stack Developer Intern  
 **Candidate:** Rohan Sahu (IIT Roorkee)  
-**Submission Portal:** [Cynbit Candidate Portal](https://cynbit.in/candidate/c076d0c32e9cabc591d3fb799efdd102)  
+**Company:** [Cynbit Technologies](https://cynbit.in)  
 **Target Repository:** [github.com/Rohanxploit/Cynbit](https://github.com/Rohanxploit/Cynbit)  
 **Date:** November 2026  
 
